@@ -73,7 +73,7 @@ markupsafe==2.1.1
     # via jinja2
 mmh3==3.0.0
     # via feast (setup.py)
-numpy==1.21.6
+numpy==1.22.3
     # via
     #   feast (setup.py)
     #   pandas
